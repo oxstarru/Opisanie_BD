@@ -20,4 +20,5 @@
 ---
 
 Идея — Оксана Старкова, вайб-код — ИИ2-2, ИИ10, ИИ10-2 · версия 1.2 · [обновления и подробности](https://dreamlifewithai.ru/blog/utility/utility-dlya-sistemnogo-analitika/opisanie-bd-bazy-dannyh/)
+
 Утилита разработана в рамках проекта [СоТворяя Жизнь Мечты с ИИ](https://dreamlifewithai.ru/)
